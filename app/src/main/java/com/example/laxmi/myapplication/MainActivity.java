@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.print("Hello123456");
+        System.out.print("Virtual Employee");
     }
 
     @Override
